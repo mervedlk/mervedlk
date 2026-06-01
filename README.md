@@ -12,6 +12,6 @@ Fırat University (1st Year)
 
 ### ⏱️ Weekly Coding Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervedlk&theme=tokyonight&layout=compact&hide_border=true" alt="Merve'nin Kodlama Grafik Raporu" />
-</p>
+📊 **My GitHub Metrics**
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=mervedlk&theme=tokyonight&bg_color=0d1117&hide_border=true)
