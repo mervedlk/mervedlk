@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Merve! 👋
 
-<!--
-**mervedlk/mervedlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Management Information Systems Student | Data & Software Enthusiast
+Fırat University (1st Year)
 
-Here are some ideas to get you started:
+- 💻 Developing database and data analysis systems using **C#** and **SQL Server**.
+- 📈 Interested in **Fintech** algorithms and decision support systems.
+- 🐍 Exploring **Python** for Data Science and analytics.
+- 🎨 Passionate about canvas painting and artistic designs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⏱️ Weekly Coding Activity
